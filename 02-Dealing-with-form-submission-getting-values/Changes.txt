@@ -1,0 +1,1 @@
+Addde submission logic in SimpleInput.js
