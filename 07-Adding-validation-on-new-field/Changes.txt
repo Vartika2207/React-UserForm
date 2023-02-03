@@ -1,0 +1,4 @@
+
+
+Added new field in SimpleInput.js
+
